@@ -8,6 +8,8 @@
     Version:            1.0.0.0
     Remarks:            Requires MemoryEx and initialization of WSA (WSAStartup)
 
+	GIT version
+	
     hostent:            http://msdn.microsoft.com/en-us/library/windows/desktop/ms738552%28v=vs.85%29.aspx
     inet_ntoa:          http://msdn.microsoft.com/en-us/library/windows/desktop/ms738564%28v=vs.85%29.aspx
     gethostbyaddr:      http://msdn.microsoft.com/en-us/library/windows/desktop/ms738521%28v=vs.85%29.aspx
